@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:blue;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px 10px black;
+    padding: 50px 20px;
+    text-align: center;
+    width: 500px;
+}
+h3{
+    margin: 0;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.joke{
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    margin: 50px;
+    max-width: 600px;
+}
+.btn {
+    background-color: yellow;
+    color: #2c2525;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1),0 6px 6px rgba(0,0,0,0.1);
+    padding: 12px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #fff;
+    transform: scale(1.1);
+}
