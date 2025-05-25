@@ -11,6 +11,9 @@
 
 4. Button to load the next joke instantly
 
+# 📸 Screenshots :
+![joke-api Preview](./Preview-joke-webapp.png)
+
 # 🛠️ Technologies Used :
 
 1. HTML for structure.
