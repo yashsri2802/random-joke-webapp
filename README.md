@@ -9,7 +9,7 @@
 
 3. Simple and interactive UI.
 
-4.Button to load the next joke instantly
+4. Button to load the next joke instantly
 
 # 🛠️ Technologies Used :
 
